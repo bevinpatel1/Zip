@@ -31,10 +31,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
-#ifndef _ZLIB_H
-#include <zlib.h>
-#endif
+#include "zlib.h"
 
 #if defined(USE_FILE32API)
 #  define fopen64 fopen
