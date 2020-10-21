@@ -1,0 +1,21 @@
+PODS:
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - Zip (from `https://github.com/bevinpatel1/Zip.git`)
+
+EXTERNAL SOURCES:
+  Zip:
+    :git: https://github.com/bevinpatel1/Zip.git
+
+CHECKOUT OPTIONS:
+  Zip:
+    :commit: d2d66bf850e251ac40cfa7f339d2a8e647107790
+    :git: https://github.com/bevinpatel1/Zip.git
+
+SPEC CHECKSUMS:
+  Zip: fa748987fc7ffef470c81d9928d223601179e338
+
+PODFILE CHECKSUM: e864a806cbc57ab0ccf7a23a8ceeff5d1b2da152
+
+COCOAPODS: 1.7.5
